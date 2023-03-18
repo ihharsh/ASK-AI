@@ -22,13 +22,15 @@ The app also includes features that allow users to save and share images generat
 # Conclusion
 The ASK AI app is a powerful tool for generating text and images using OpenAI's API. Whether you are looking to create new content or simply explore the capabilities of machine learning, this app has everything you need to get started. So why wait? Download the app today and start exploring the possibilities of AI!
 
-<img src="https://user-images.githubusercontent.com/116948587/226099164-a4d92de1-bb2a-41c0-b9b6-79d115fd4c54.jpeg" width="200">
+
 
 # ScreenShots
-![WhatsApp Image 2023-03-18 at 3 38 19 PM](https://user-images.githubusercontent.com/116948587/226099164-a4d92de1-bb2a-41c0-b9b6-79d115fd4c54.jpeg)
+<img src="https://user-images.githubusercontent.com/116948587/226099164-a4d92de1-bb2a-41c0-b9b6-79d115fd4c54.jpeg" width="200">
+
+<img src="https://user-images.githubusercontent.com/116948587/226099164-a4d92de1-bb2a-41c0-b9b6-79d115fd4c54.jpeg](https://user-images.githubusercontent.com/116948587/226099370-37acf872-da8d-48b0-bc2c-d7aa13bd2531.jpeg" width="200">
 
 
-![WhatsApp Image 2023-03-18 at 3 38 20 PM copy 2](https://user-images.githubusercontent.com/116948587/226099370-37acf872-da8d-48b0-bc2c-d7aa13bd2531.jpeg)
+
 
 
 ![WhatsApp Image 2023-03-18 at 3 38 20 PM copy](https://user-images.githubusercontent.com/116948587/226099384-d7d6a03f-ea35-4011-a543-8fd6e303fe4a.jpeg)
