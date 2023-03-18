@@ -32,7 +32,8 @@ The ASK AI app is a powerful tool for generating text and images using OpenAI's 
 
 <img src="https://user-images.githubusercontent.com/116948587/226099384-d7d6a03f-ea35-4011-a543-8fd6e303fe4a.jpeg" width="200">
 
-<img src="[https://user-images.githubusercontent.com/116948587/226099398-bcd5157d-a45f-4e4a-af3e-6d75b292e2c6.jpeg](https://user-images.githubusercontent.com/116948587/226099384-d7d6a03f-ea35-4011-a543-8fd6e303fe4a.jpeg)" width="200">
+<img src="https://user-images.githubusercontent.com/116948587/226099591-61393f44-e171-468c-8e1e-68688d673383.jpeg" width="200">
+
 
 
 
