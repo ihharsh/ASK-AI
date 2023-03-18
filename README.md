@@ -1,4 +1,5 @@
 # ASK-AI
+![WhatsApp Image 2023-03-18 at 3 38 19 PM](https://user-images.githubusercontent.com/116948587/226099164-a4d92de1-bb2a-41c0-b9b6-79d115fd4c54.jpeg)
 The ASK AI app is an Android application that uses OpenAI's API to generate text results and images according to user queries. The app is designed to be similar to chatbot and DALL-E, and it uses the Volley library to handle API requests and the Glide library to display images. Additionally, the app includes features such as copy text, save images, and share images.
 
 # Text Generation
